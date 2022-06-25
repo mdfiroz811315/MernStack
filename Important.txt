@@ -1,0 +1,47 @@
+1. in cmd to goto the code  location
+
+cd "Location"
+
+example
+
+cd C:\Users\MIRZA TAHSIN\Coding it will come to coding location in command line
+
+2. to copy code from github
+
+git clone "https location"
+
+example
+
+git clone https://github.com/mdfiroz811315/MernStack.git
+
+
+3. how to push code to github from your local machine
+
+
+
+
+ git merge conflict example
+
+
+<<<<<<< HEAD (your code)
+new error
+=======
+creating error (github/other code)
+>>>>>>> e90b1f779957cd750812638602b87d0c04a63819
+
+
+// to go code history using commit
+git reset --hard 085515d539f2c59d3b564fd1a0eab930900f2a33
+
+// git pull
+
+// to push code from cmd in git
+
+git status
+
+git add .
+
+
+git commit -m "my changes through cmd"
+
+git push
