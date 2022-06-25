@@ -23,11 +23,7 @@ git clone https://github.com/mdfiroz811315/MernStack.git
  git merge conflict example
 
 
-<<<<<<< HEAD (your code)
 new error
-=======
-creating error (github/other code)
->>>>>>> e90b1f779957cd750812638602b87d0c04a63819
 
 
 // to go code history using commit
