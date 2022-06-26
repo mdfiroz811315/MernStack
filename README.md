@@ -2,7 +2,10 @@
 Mern Stack Application
 
 **Clone Github project and Create Nodejs Application and Push to github**
-1. **in cmd to goto the code  location**
+
+**create a new git repository**
+
+ **in cmd to goto the code  location**
 
 cd "Location"
 
@@ -10,7 +13,7 @@ example
 
 cd C:\Users\MIRZA TAHSIN\Coding it will come to coding location in command line
 
-2. **to copy code from github**
+ **to copy code from github**
 
 git clone "https location"
 
