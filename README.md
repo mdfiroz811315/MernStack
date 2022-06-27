@@ -13,6 +13,15 @@ example
 
 cd C:\Users\MIRZA TAHSIN\Coding it will come to coding location in command line
 
+**shortcut to open current folder location in commandline**
+
+in browse location  
+**remove location and TYPE cmd"
+
+**shortcut to open Visual Studio Code from Command Line*
+
+**code ."
+
  **to copy code from github**
 
 git clone "https location"
